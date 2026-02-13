@@ -203,7 +203,6 @@
             document.getElementById(id).classList.add('active');
         }
     </script>
-
 </body>
 
 </html>
